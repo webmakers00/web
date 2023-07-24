@@ -1,0 +1,56 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "uni-app",
+			"navigationBarBackgroundColor": "#FFFFFF",
+			//"navigationStyle": "custom",
+			"app-plus": {
+				"scrollIndicator": "none",
+			 "titleNView": {
+			 	"buttons": [
+			 		{"float": "left","fontSrc": "./static/iconfont.ttf","text": "\ue611"},
+					{"float": "right","fontSrc": "./static/iconfont.ttf","text": "\ue611"}
+			 	]
+			 }	
+			}
+		}
+	}    ,{
+            "path" : "pages/Qshow/Qshow",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#3cc51f",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"text": "组件"
+		},
+		{
+			"pagePath": "pages/Qshow/Qshow",
+			"text": "查询"
+		},
+		{
+			"pagePath": "pages/index/index",
+			"text": "组件"
+		}
+		]
+	}
+}

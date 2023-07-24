@@ -1,0 +1,15 @@
+D:\Web\web\obj\Debug\net6.0\web.csproj.AssemblyReference.cache
+D:\Web\web\obj\Debug\net6.0\web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web\web\obj\Debug\net6.0\web.AssemblyInfoInputs.cache
+D:\Web\web\obj\Debug\net6.0\web.AssemblyInfo.cs
+D:\Web\web\obj\Debug\net6.0\web.csproj.CoreCompileInputs.cache
+D:\Web\web\obj\Debug\net6.0\web.MvcApplicationPartsAssemblyInfo.cs
+D:\Web\web\obj\Debug\net6.0\web.MvcApplicationPartsAssemblyInfo.cache
+D:\Web\web\obj\Debug\net6.0\staticwebassets\msbuild.web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Web\web\obj\Debug\net6.0\staticwebassets\msbuild.build.web.props
+D:\Web\web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.web.props
+D:\Web\web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.web.props
+D:\Web\web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Web\web\obj\Debug\net6.0\web.dll
+D:\Web\web\obj\Debug\net6.0\refint\web.dll
+D:\Web\web\obj\Debug\net6.0\web.pdb
