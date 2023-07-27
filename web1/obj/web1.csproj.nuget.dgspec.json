@@ -11,7 +11,7 @@
         "projectName": "web1",
         "projectPath": "D:\\web\\web1\\web1.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\web\\web1\\obj\\",
+        "outputPath": "D:\\Web\\web1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
